@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Member Portal Application
+
+<!-- This Application is for providing caregiver functionality to users -->
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
